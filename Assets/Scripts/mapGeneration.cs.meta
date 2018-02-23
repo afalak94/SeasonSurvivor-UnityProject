@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2787083d16c1ca1418034132d9491fbd
+timeCreated: 1513383497
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - groundTop: {fileID: 1794481747225812, guid: 3f009b0c6ef04444f9c6f9b303e0bdfe,
+      type: 2}
+  - groundMid: {fileID: 1517463028290660, guid: 1b942d5900f9bfd4fb854374fc198440,
+      type: 2}
+  - bridge: {fileID: 1737689955382226, guid: de32ec329222bc549b35d400b6b827cc, type: 2}
+  - spikes: {fileID: 1971106810709538, guid: b9f80f8305455ab4faeda204c737768d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

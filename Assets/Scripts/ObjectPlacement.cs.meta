@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d9f4467533851dc449d5347baf92ba82
+timeCreated: 1513383585
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - box: {fileID: 1830318864981878, guid: c8b70ae3e3119e741b5f8d0c3e8af222, type: 2}
+  - sign: {fileID: 1005410784311098, guid: 5537d8431e59a8c43866f0714ac2d1c2, type: 2}
+  - rock: {fileID: 1030500715150004, guid: 330f56ed5d134964f99dbaac9deb4f20, type: 2}
+  - cactus: {fileID: 1791265900653396, guid: 1488d134120d73347940a0d4159485b5, type: 2}
+  - mushroom: {fileID: 1049769889445762, guid: f08a90b14fda0c1449b465a03b1a3d6f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b76797180b84fa74c93fc8f610691e4a
+timeCreated: 1513383381
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - saw: {fileID: 1009599112157966, guid: b67201f324927c640a07428fe6442c0d, type: 2}
+  - slime: {fileID: 1712577665456232, guid: 4fe1d157256c97a4db2b85261bec45c8, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
